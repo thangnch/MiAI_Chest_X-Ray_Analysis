@@ -1,0 +1,9 @@
+train: yolo_data/images/train # path to train folder
+val: yolo_data/images/val # path to val folder
+
+# number of classes
+nc: 14
+
+# class names
+names: ["Aortic enlargement","Atelectasis","Calcification","Cardiomegaly","Consolidation","ILD",
+        "Infiltration","Lung Opacity","Nodule/Mass","Other lesion","Pleural effusion","Pleural thickening","Pneumothorax","Pulmonary fibrosis"]
