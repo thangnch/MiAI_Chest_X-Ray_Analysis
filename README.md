@@ -1,7 +1,7 @@
 # MiAI_Chest_X-Ray_Analysis
 Use YOLO v5 for Chest X-Ray Analysis
 
-Article link:  https://www.miai.vn/2021/03/02/thu-lam-bac-si-chuan-doan-x-quang-cung-yolo-v5-phan-1-2/
+Article link:  https://youtu.be/1ZidAtKpAz0
 
 #MìAI <br>
 Fanpage: http://facebook.com/miaiblog<br>
