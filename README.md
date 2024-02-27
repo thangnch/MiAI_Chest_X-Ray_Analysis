@@ -1,7 +1,7 @@
 # MiAI_Chest_X-Ray_Analysis
 Use YOLO v5 for Chest X-Ray Analysis
 
-Article link:  [https://youtu.be/1ZidAtKpAz0](https://youtu.be/-pULrPJQNoA)
+Article link:  
 
 #MìAI <br>
 Fanpage: http://facebook.com/miaiblog<br>
